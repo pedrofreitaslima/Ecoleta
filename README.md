@@ -3,8 +3,8 @@
 This project was created during the Next Level Week which was taught by the Rocketseat team, in this application it is possible to register collection points and types of materials collected, showing them on maps and allowing you to search for the nearest points.
 
 ## 🚀 Index
-- Technologies
-- How to use
+- ⚙ [Tecnologies](#-tecnologies)
+- 💻 [How to use](#-how-to-use)
 
 ## ⚙ Technologies
 ### Back End
